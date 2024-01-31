@@ -1,2 +1,2 @@
-test day 3 
-commits: 4/4
+test day 4 
+commits: 1/6?
