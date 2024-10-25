@@ -1,2 +1,2 @@
-day 297 
-commit 6/6
+day 300 
+commit 1/6
